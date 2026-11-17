@@ -309,10 +309,10 @@ These are **planned, not implemented**:
 
 ---
 
-## Team
+## Contributors
 
-- **MNV** — backend, LangGraph agents, Sarvam integration, data ingestion, deployment.
-- **ARP** — mobile UI/UX (React Native + Expo), map and layers, API integration.
+- **Arpita** ([@arp1511](https://github.com/arp1511)) — Mobile UI/UX (React Native + Expo), interactive map and telemetry layers, daily chat consultation, and API integration.
+- **Manav Sonawane** ([@Manav-Sonawane](https://github.com/Manav-Sonawane)) — Backend architecture, LangGraph agents, Sarvam AI integration, and cloud deployment.
 
 ## Acknowledgments
 
